@@ -25,6 +25,11 @@ c = a
 a = b  
 b = c  
 print("Swapped values are:", a, b)
+
+
+
+
+
 ## OUTPUT:
 ![Screenshot 2024-08-24 145358](https://github.com/user-attachments/assets/14a3525f-4e0c-4adc-bb0b-edd44c13fa80)
 
